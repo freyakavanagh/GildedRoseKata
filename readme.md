@@ -1,4 +1,4 @@
-# Guilded Rose Kata Solution
+# Gilded Rose Kata Solution
 
 A solution to the Java Guilded Rose Kata created by Emily Banche.
 
